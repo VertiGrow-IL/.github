@@ -2,7 +2,8 @@
 <h1>VertiGrow</h1>
 </div>
 
-![Pangan Kita](https://github.com/pangan-kita/.github/assets/147965614/0c93e462-7438-49ef-95ce-fddeafdfda62)
+
+![VertiGrow ](https://github.com/VertiGrow-IL/frontend-vertigrow/blob/9b907e22e39277301326b9c963d074bbde05afa7/src/assets/Vertikultur.png)
 <br>
 
 ### Description
