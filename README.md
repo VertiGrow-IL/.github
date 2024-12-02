@@ -1,57 +1,69 @@
 <div align="center">
-<h1>Pangankita</h1>
+<h1>VertiGrow</h1>
 </div>
 
-![Pangan Kita](https://github.com/pangan-kita/.github/assets/147965614/0c93e462-7438-49ef-95ce-fddeafdfda62)
+
+![VertiGrow ](https://github.com/VertiGrow-IL/frontend-vertigrow/blob/9b907e22e39277301326b9c963d074bbde05afa7/src/assets/Vertikultur.png)
 <br>
 
 ### Description
-Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 program. Our team consists of 7 members, including 2 people from the Mobile Development team, 3 people from the Machine Learning team, and 2 people from the Cloud Computing team.
+VertiGrow is a capstone project for Kampus Merdeka Mandiri Infinite Learning 2024 Batch 7 program. Our team consists of 11 members, including 1 project manager, 2 people from the husler team, 3 people from the hacker team, and 5 people from the AAI team.
 
 <div align="center">
-  <h3>Team members</h3>
-  <table align="center">
+  <h3>Team Members</h3>
+  <table align="center" border="1">
     <tr>
-      <th>Learning Path</th>
-      <th>Bangkit ID</th>
-      <th>Name</th>
-    </tr>
-        <tr>
- <td>Cloud Computing</td>
-      <td>C107D4KY0917</td>
-      <td>Arya Gunawan</td>
+      <th>Nama</th>
+      <th>Peran</th>
     </tr>
     <tr>
-      <td>Cloud Computing</td>
-      <td>C267D4KX0258</td>
-      <td>Natashya Welhelmina</td>
+      <td>Muhammad Syahrul Nizam</td>
+      <td>Project Manager</td>
     </tr>
     <tr>
-      <td>Machine Learning</td>
-      <td>M315D4KY3198</td>
-      <td>Ahmad Firman</td>
+      <td>Alfiani Hanifah Salsabila</td>
+      <td>Husler</td>
     </tr>
     <tr>
-      <td>Machine Learning</td>
-      <td>M180D4KX2646</td>
-      <td>Farah Aulia Sahirah</td>
-    </tr>
-     <tr>
-      <td>Machine Learning</td>
-      <td>M315D4KY2324</td>
-      <td>Nico Karuna</td>
-      <tr>
-       <td>Mobile Development</td>
-      <td>A267D4KY3901</td>
-      <td>M. Herdi Al-Fachri</td>
+      <td>Anggie Nadila</td>
+      <td>Husler</td>
     </tr>
     <tr>
-      <td>Mobile Development</td>
-      <td>A288D4KY4468</td>
-      <td>Aditya Iza Nurrahman</td>
+      <td>Mustolih Hamid Burhanil Wahid</td>
+      <td>Hacker</td>
     </tr>
+    <tr>
+      <td>Ammar Ismail Khocan</td>
+      <td>Hacker</td>
+    </tr>
+    <tr>
+      <td>Dortea Ribka Tadete</td>
+      <td>Hacker</td>
+    </tr>
+    <tr>
+      <td>Nadhirah Meidiasty Maharani</td>
+      <td>AAI</td>
+    </tr>
+    <tr>
+      <td>Muhammad Rifqi Febrian</td>
+      <td>AAI</td>
+    </tr>
+    <tr>
+      <td>Nabiel Albar Djati</td>
+      <td>AAI</td>
+    </tr>
+    <tr>
+      <td>Fawwaz Aydin Rafif</td>
+      <td>AAI</td>
+    </tr>
+    <tr>
+      <td>Muhammad Arif Perdana</td>
+      <td>AAI</td>
+    </tr>
+    
   </table>
 </div>
 
+
 <br>
-PanganKita is an innovative platform that transforms Indonesia's agricultural market by directly connecting farmers and customers, eliminating middlemen who inflate prices. This allows farmers to set fair prices and increase profits while providing consumers with lower costs. Our execution plan includes building a user-friendly app, integrating a machine learning model to classify food, and developing a robust backend with Google Cloud for reliability and scalability.. The successful implementation of PanganKita will increase farmer profitability, lower consumer costs, and promote transparency and trust, all of which will help Indonesia's food supply chain become more sustainable and resilient.
+Vertigrow adalah platform edukasi agraria yang interaktif dan mudah diakses, yang berfokus pada penyediaan informasi teknik vertikultur. dengan tujuan memberdayakan masyarakat terutama yang memiliki lahan terbatas, dengan memberikan pelatihan berbasis multimedia dengan platform ini kami berupaya untuk meningkatkan ketahanan pangan, mendorong pertanian mandiri, memaksimalkan pemanfaatan ruang vertikal di bidang pertanian.
