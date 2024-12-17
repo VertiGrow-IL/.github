@@ -42,23 +42,23 @@ VertiGrow is a capstone project for Kampus Merdeka Mandiri Infinite Learning 202
     </tr>
     <tr>
       <td>Nadhirah Meidiasty Maharani</td>
-      <td>AAI</td>
+      <td>Desain Researcher</td>
     </tr>
     <tr>
       <td>Muhammad Rifqi Febrian</td>
-      <td>AAI</td>
+      <td>Data Engineer</td>
     </tr>
     <tr>
       <td>Nabiel Albar Djati</td>
-      <td>AAI</td>
+      <td>Data Engineer</td>
     </tr>
     <tr>
       <td>Fawwaz Aydin Rafif</td>
-      <td>AAI</td>
+      <td>Machine Learning Engineer</td>
     </tr>
     <tr>
       <td>Muhammad Arif Perdana</td>
-      <td>AAI</td>
+      <td>Machine Learning Ops</td>
     </tr>
     
   </table>
