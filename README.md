@@ -3,7 +3,7 @@
 </div>
 
 
-![VertiGrow ](https://github.com/VertiGrow-IL/frontend-vertigrow/blob/9b907e22e39277301326b9c963d074bbde05afa7/src/assets/Vertikultur.png)
+![VertiGrow ](https://github.com/VertiGrow-IL/vertigrow-backend/blob/aab3d8311df57915d3b0fd01d8d833d63fb93796/src/uploads/edukasi/banner-github.png)
 <br>
 
 ### Description
